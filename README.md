@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm NISCHIT D S, a fresh graduate exploring the vast world of programming and software development. Although I'm not currently working with any companies, I'm passionate about honing my skills and diving deep into the realm of technology. My current focus lies in Java programming, as well as learning about Data Structures and Algorithms to strengthen my problem-solving abilities. Additionally, I'm also delving into the exciting world of node.js, expanding my knowledge of web development. I'm eager to collaborate, learn from others, and contribute to meaningful projects.
+Hey there! I'm NISCHIT D S, a fresh graduate exploring the vast world of programming and software development. Although I'm not currently working with any companies, I'm passionate about honing my skills and diving deep into the realm of technology. My current focus lies in Java programming, HTML, CSS, Javascript and learning about Data Structures and Algorithms to strengthen my problem-solving abilities. Additionally, I'm also delving into the exciting world of React. I'm eager to collaborate, learn from others, and contribute to meaningful projects.
 
 
 ## 🌐 Socials:
