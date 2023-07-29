@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nischit17&" alt="nischit17" /></p>
 
-~[Snake animation] (https://github.com/Nischit17/Nischit17/blob/output/github-contribution-grid-snake.svg)
+
