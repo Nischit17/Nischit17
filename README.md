@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NISCHIT D S</h1>
-<h3 align="center">👋 Hello, fellow developers! I'm [NISCHIT D S], a Passionate coder and avid learner, diving into the world of Web development and Java.</h3>
+<h3 align="center">Hello, fellow developers! I'm NISCHIT D S, a Passionate coder and avid learner, diving into the world of Web development and Java.</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nischit17&label=Profile%20views&color=0e75b6&style=flat" alt="nischit17" /> </p>
