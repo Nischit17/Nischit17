@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nischit17&label=Profile%20views&color=0e75b6&style=flat" alt="nischit17" /> </p>
 
-- 🌱 I’m currently learning [JavaScript - Course](https://github.com/Nischit17/JavaScript)
+- 🌱 I’m currently learning [JavaScript - Course](https://github.com/Nischit17/JavaScript) [React - class](hhttps://github.com/Nischit17/React-Class)
 
 - 💬 Ask me about **HTML CSS JAVASCRIPT AND REACT**
 
