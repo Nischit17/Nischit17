@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **nischit819@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Id20UhSIgvnjTpIEckdZgNA1DmHNoU8x/view?usp=sharing](https://drive.google.com/file/d/1Id20UhSIgvnjTpIEckdZgNA1DmHNoU8x/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Id20UhSIgvnjTpIEckdZgNA1DmHNoU8x/view?usp=sharing](https://drive.google.com/file/d/1Id20UhSIgvnjTpIEckdZgNA1DmHNoU8x/view?usp=sharing)](https://drive.google.com/file/d/1PL3x1mPNS_8MALq1IeHz8sKGB12Ohh9d/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
