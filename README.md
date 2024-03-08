@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nischit17&label=Profile%20views&color=0e75b6&style=flat" alt="nischit17" /> </p>
 
-- 🌱 I’m currently learning [TypeScript](https://github.com/Nischit17/TypeScript-Notes)
+- 🌱 I’m currently learning [React Native](https://github.com/Nischit17/Swiggy-React-Native)
 
 - 💬 Ask me about **HTML | CSS | JAVASCRIPT | REACT | TYPESCRIPT**
 
