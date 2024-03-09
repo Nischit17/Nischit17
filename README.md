@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning [React Native](https://github.com/Nischit17/Swiggy-React-Native)
 
-- 💬 Ask me about **HTML | CSS | JAVASCRIPT | REACT | TYPESCRIPT**
+- 💬 Ask me about **HTML | CSS | JAVASCRIPT | REACT | TYPESCRIPT | REACT-NATIVE**
 
 - 📫 How to reach me **nischit819@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1PL3x1mPNS_8MALq1IeHz8sKGB12Ohh9d/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1PlkXVC-pwNiTnCie5VYp2sdoYkI5TKUT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
