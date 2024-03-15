@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nischit17&label=Profile%20views&color=0e75b6&style=flat" alt="nischit17" /> </p>
 
-- 🌱 I’m currently learning [React Native](https://github.com/Nischit17/Swiggy-React-Native)
+- 🌱 I’m currently learning [React Native](https://drive.google.com/file/d/1XIhTR52Hpr81OtoOIVjoAsPMytmzwfmz/view?usp=sharing)
 
 - 💬 Ask me about **HTML | CSS | JAVASCRIPT | REACT | TYPESCRIPT | REACT-NATIVE**
 
