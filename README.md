@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning [React Native](https://drive.google.com/file/d/1XIhTR52Hpr81OtoOIVjoAsPMytmzwfmz/view?usp=sharing)
 
+- 🚀 I’m currently building [Job Portal (MERN)](https://github.com/Nischit17/Job-Portal-FULL-STACK-)
+
 - 💬 Ask me about **HTML | CSS | JAVASCRIPT | REACT | TYPESCRIPT | REACT-NATIVE**
 
 - 📫 How to reach me **nischit819@gmail.com**
