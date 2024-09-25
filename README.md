@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **nischit819@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1PlkXVC-pwNiTnCie5VYp2sdoYkI5TKUT/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1iLBooILvksHD05td4KHPUKz3PpzYtv4O/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
