@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nischit17&label=Profile%20views&color=0e75b6&style=flat" alt="nischit17" /> </p>
 
-- 🌱 I’m currently learning [React Native](https://drive.google.com/file/d/1XIhTR52Hpr81OtoOIVjoAsPMytmzwfmz/view?usp=sharing)
+- 🌱 I’m currently learning [Namaste Frontend System Design](https://drive.google.com/file/d/1XIhTR52Hpr81OtoOIVjoAsPMytmzwfmz/view?usp=sharing)
 
 - 🚀 I’m currently building [Job Portal (MERN)](https://github.com/Nischit17/Job-Portal-FULL-STACK-)
 
-- 💬 Ask me about **HTML | CSS | JAVASCRIPT | REACT | TYPESCRIPT | REACT-NATIVE**
+- 💬 Ask me about **HTML5 | CSS3 | JAVASCRIPT | REACT | TYPESCRIPT | DSA | SYSTEM DESIGN**
 
 - 📫 How to reach me **nischit819@gmail.com**
 
