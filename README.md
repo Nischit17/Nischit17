@@ -1,18 +1,21 @@
-<h1 align="center">Hi, I'm NISCHIT D S</h1>
-<h3 align="center">Building Tomorrow, One Line at a Time 🌟</h3>
+<h1 align="center">Heyya, I'm NISCHIT D S</h1>
+<h3 align="center">Let's turn coffee into scalable disaster-free code. ☕🚀</h3>
+✍️ Write. 📚 Teach. 🔁 Repeat.  
+💻 Code is taught best when shared,  
+🌱 Mentorship is growth.
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nischit17&label=Profile%20views&color=0e75b6&style=flat" alt="nischit17" /> </p>
 
-- 🌱 I’m currently learning [Namaste Frontend System Design](https://drive.google.com/file/d/1XIhTR52Hpr81OtoOIVjoAsPMytmzwfmz/view?usp=sharing)
+- 🌱 I’m currently learning [Namaste Frontend System Design](https://github.com/Nischit17/Namaste-Frontend-System-Design)
 
-- 🚀 I’m currently building [Job Portal (MERN)](https://github.com/Nischit17/Job-Portal-FULL-STACK-)
+- 🚀 I’m currently building [GraphQL](https://github.com/Nischit17/GraphQL-Example)
 
-- 💬 Ask me about **HTML5 | CSS3 | JAVASCRIPT | REACT | TYPESCRIPT | DSA | SYSTEM DESIGN**
+- 💬 Ask me about **HTML5 | CSS3 | JAVASCRIPT | TYPESCRIPT | REACT | NEXT | DSA | SYSTEM DESIGN**
 
 - 📫 How to reach me **nischit819@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1iLBooILvksHD05td4KHPUKz3PpzYtv4O/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1PySwd4CaQCP8jE7mb9XIXrJqSHYb4bv7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
