@@ -1,4 +1,4 @@
-<h1 align="center">Heyya, I'm NISCHIT D S</h1>
+<h1 align="center">Hey, I'm NISCHIT D S</h1>
 <h3 align="center">Let's turn coffee into scalable disaster-free code. ☕🚀</h3>
 <ul>
   <li>✍️ Write. 📚 Teach. 🔁 Repeat.</li>
