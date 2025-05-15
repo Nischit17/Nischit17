@@ -1,8 +1,10 @@
 <h1 align="center">Heyya, I'm NISCHIT D S</h1>
 <h3 align="center">Let's turn coffee into scalable disaster-free code. ☕🚀</h3>
-✍️ Write. 📚 Teach. 🔁 Repeat.  
-💻 Code is taught best when shared,  
-🌱 Mentorship is growth.
+<ul>
+  <li>✍️ Write. 📚 Teach. 🔁 Repeat.</li>
+  <li>💻 Code is taught best when shared,</li>
+  <li>🌱 Mentorship is growth.</li>
+</ul>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nischit17&label=Profile%20views&color=0e75b6&style=flat" alt="nischit17" /> </p>
