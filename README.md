@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **nischit819@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1PySwd4CaQCP8jE7mb9XIXrJqSHYb4bv7/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1hRRSOlzfnuD-Hiazg6tETU500AkpxUoX/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
