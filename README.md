@@ -9,15 +9,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nischit17&label=Profile%20views&color=0e75b6&style=flat" alt="nischit17" /> </p>
 
-- 🌱 I’m currently learning [Namaste Frontend System Design](https://github.com/Nischit17/Namaste-Frontend-System-Design) [30-days-of-javascript-challenge](https://github.com/Nischit17/30-days-of-JS)
+- 🌱 I’m currently learning [Namaste DSA](https://github.com/Nischit17/Namaste-DSA)
 
-- 🚀 I’m currently building [GraphQL](https://github.com/Nischit17/GraphQL-Example)
+- 🚀 I’m currently building [Kafka](https://github.com/Nischit17/kafka-setup)
 
 - 💬 Ask me about **HTML5 | CSS3 | JAVASCRIPT | TYPESCRIPT | REACT | NEXT | DSA | SYSTEM DESIGN**
 
 - 📫 How to reach me **nischit819@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1hRRSOlzfnuD-Hiazg6tETU500AkpxUoX/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1bm95gM6__eRsbnSdD34mm6a75lazM7uM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
